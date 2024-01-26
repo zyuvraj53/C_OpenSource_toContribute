@@ -4,3 +4,4 @@
 .vscode/
 build/
 git_diff.txt
+# learn cmake, and this repository uses CMake, learn what it does with it, and remove this comment after doing the change to push
